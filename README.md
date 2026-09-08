@@ -24,7 +24,7 @@ It is also possible to select the corresponding button in the toolbar.
 3. Select Download. The robot should automatically appear in the station in a few seconds.
 4. The online library can be closed once the robot is loaded
 OUTPUT
-<img width="626" height="487" alt="Screenshot 2026-09-08 141146" src="https://github.com/user-attachments/assets/bce8d3b5-224e-404c-8fb2-2e684a5be594" />
+<img width="577" height="482" alt="Screenshot 2026-09-08 142415" src="https://github.com/user-attachments/assets/998093c4-a3d3-4637-82d4-7e3eebe5cbd5" />
 <img width="667" height="268" alt="image" src="https://github.com/user-attachments/assets/11d613ae-343a-4ce7-93cf-62eb6fe065b8" />
 RESULT
 Thus the given experiment was completed successfully
